@@ -1,0 +1,7 @@
+<h1 align="center">IF-ELSE</h1>
+
+```cobol
+IF WRK-OPERACAO EQUAL "1"
+    COMPUTE WRK-RESULTADO = WRK-NUMERO1 + WRK-NUMERO2
+END-IF.
+```
